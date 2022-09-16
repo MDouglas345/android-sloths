@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MLD_CS3680_Project1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TapScreenPrompt">Tap the screen as fast as you can!</string>
+    <string name="DisplayFragmentWelcome">This is Display Fragment</string>
+</resources>
